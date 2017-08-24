@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+//    dispatch_get_main_queue()
     // Do any additional setup after loading the view, typically from a nib.
 }
 
